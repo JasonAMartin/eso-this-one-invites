@@ -4,7 +4,7 @@ An simple command-line auto-invite mod for Elder Scrolls Online.
 
 # Tutorial
 
-The tutorial for building this mod starts here: [Let's Build a Elder Scrolls Online Mod - Part 1](/2017/08/09/ESO/build-elder-scrolls-online-mod-1/)
+The tutorial for building this mod starts here: [Let's Build a Elder Scrolls Online Mod - Part 1](http://www.jasonamartin.com/2017/08/09/ESO/build-elder-scrolls-online-mod-1/)
 
 #### Branch Log
 
